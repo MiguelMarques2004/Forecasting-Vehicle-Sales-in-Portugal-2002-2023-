@@ -1,10 +1,10 @@
-# 📈 Forecasting Vehicle Sales in Portugal (2002–2023)
+# Forecasting Vehicle Sales in Portugal (2002–2023)
 
 This project applies **time series analysis** methods to forecast new vehicle sales in Portugal from **2002 to 2023**.
 
 ---
 
-## 🔎 Main Steps
+## Main Steps
 
 ### 1. Data Preparation
 - Transformation of the original dataset (**Year + Month → Date**)  
@@ -33,7 +33,7 @@ This project applies **time series analysis** methods to forecast new vehicle sa
 
 ---
 
-## 📊 Results
+## Results
 The study highlights the **trends and fluctuations of the Portuguese automotive market** and demonstrates the practical application of modern forecasting techniques in R:  
 - `fpp3`  
 - `tsibble`  
@@ -41,8 +41,8 @@ The study highlights the **trends and fluctuations of the Portuguese automotive 
 
 ---
 
-## 🌐 Visualization
+## Visualization
 The HTML version of the report is available on **GitHub Pages**:  
-👉 [Open Report](https://<your-username>.github.io/<repo-name>/)
+👉 [Open Report](https://miguelmarques2004.github.io/Forecasting-Vehicle-Sales-in-Portugal-2002-2023-/)
 
 ---
